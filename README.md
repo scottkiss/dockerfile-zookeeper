@@ -16,9 +16,7 @@ sh build.sh
 sh zkrun.sh
 
 
-`docker ps -a`
 
-```
 CONTAINER ID        IMAGE               COMMAND                CREATED             STATUS              PORTS               NAMES
 468c86763a25        zookeeper           "/bin/sh -c \"/usr/b   1 minutes ago       Up 1 minutes                            zk3                 
 299fce0e974a        zookeeper           "/bin/sh -c \"/usr/b   1 minutes ago       Up 2 minutes                            zk2                 
